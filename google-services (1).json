@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1063836657453",
+    "project_id": "fir-crud-app-fd8c7",
+    "storage_bucket": "fir-crud-app-fd8c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063836657453:android:a66832a2184f8ff83ad5a4",
+        "android_client_info": {
+          "package_name": "com.gtaappdevelopers.firebasecruapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063836657453-djbk1295p0mhfkus8er11h1g2vp0ccob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5AYv6_UKrf1EifY8ZikCAlIIdW8aV5rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063836657453-djbk1295p0mhfkus8er11h1g2vp0ccob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
